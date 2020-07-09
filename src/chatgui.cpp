@@ -2,6 +2,7 @@
 #include <wx/colour.h>
 #include <wx/image.h>
 #include <string>
+# include <memory>
 #include "chatbot.h"
 #include "chatlogic.h"
 #include "chatgui.h"
